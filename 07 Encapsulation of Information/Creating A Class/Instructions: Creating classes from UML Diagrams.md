@@ -51,7 +51,7 @@ What good is a game that doesn't have a player? In this step you will be creatin
 
 Create the structure of the Player class based on the following UML diagram.
 
-player_diagram.png
+![alt "Player UML Diagram"](https://github.com/Caldwell-WGU/ATA-Prerequisite-Course/blob/main/Images/player_diagram.png)
 
 In this UML diagram
 
