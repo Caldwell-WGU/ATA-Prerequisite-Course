@@ -12,14 +12,7 @@ public class CheckoutMachine {
     float calculateWeight(float[] weights, boolean hasLoyaltyCard) {
         float totalWeight = 0;
         // TODO: Step 1 work goes between the two comments
-        for (int i = 0; i < weights.length; i++){
-            float weight = weights[i];
-            if (hasLoyaltyCard && weight < 20){
-                totalWeight += weight * .95;
-            } else {
-                totalWeight += weight;
-            }
-        }
+
         //
         return totalWeight;
     }
