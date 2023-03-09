@@ -265,10 +265,10 @@ You may open the referenced HTML file, which contains a visual representation of
 
 **Steps to open the test report:**
 
-1.  Refresh the file browser by clicking the Refresh button.  ![Refresh file browser button](https://labs.vocareum.com/web/2180183/1165913.0/ASNLIB/public/docs/lang/en/step1/assets/refresh-file-browser-button.png)
-2.  Use the file browser to navigate over to the  `local/build_logic/build/reports/tests/test/`  directory.![Test report file location](https://labs.vocareum.com/web/2180183/1165913.0/ASNLIB/public/docs/lang/en/step1/assets/test-report-file-location.png)
+1.  Refresh the file browser by clicking the Refresh button.  ![Refresh file browser button](https://github.com/Caldwell-WGU/ATA-Prerequisite-Course/blob/main/Images/refresh-file-browser-button.png)
+2.  Use the file browser to navigate over to the  `local/build_logic/build/reports/tests/test/`  directory.![Test report file location](https://github.com/Caldwell-WGU/ATA-Prerequisite-Course/blob/main/Images/test-report-file-location.png)
 3.  Open the  `index.html`  file by double-clicking it.
-4.  Observe the test failures.![Observed test failures in report](https://labs.vocareum.com/web/2180183/1165913.0/ASNLIB/public/docs/lang/en/step1/assets/test-failures-report.png)
+4.  Observe the test failures.![Observed test failures in report](https://github.com/Caldwell-WGU/ATA-Prerequisite-Course/blob/main/Images/test-failures-report.png)
 
 **HINT:**  You may always run the application from the terminal by using the following command, or clicking the  **Run**  button in the Vocareum user interface:
 
