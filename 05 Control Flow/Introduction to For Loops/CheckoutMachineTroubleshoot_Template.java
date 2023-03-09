@@ -17,10 +17,10 @@ public class CheckoutMachineTroubleshoot {
         // out your fixes
         for (int i = 0; i < weights.length; i++) {
             float weight = weights[i];
-            if (weight < 20f && hasLoyaltyCard) {
+            if (weight < 2f && hasLoyaltyCard) {
                 weight *= 0.95;
             }
-            totalWeight += weight;
+            totalWeight = weight;
         }
         //
         return totalWeight;
