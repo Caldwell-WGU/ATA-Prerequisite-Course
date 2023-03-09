@@ -1,6 +1,6 @@
 # Step 0 / Module 3
 
-You may go back to the  [Main Prereqs Project Instructions](https://labs.vocareum.com/web/2180183/1165913.0/ASNLIB/public/docs/lang/en/README.md)  at any time.
+You may go back to the  [Main Prereqs Project Instructions](https://github.com/Caldwell-WGU/ATA-Prerequisite-Course/blob/main/Project:%20T-Shirt%20Store/Instructions/Main%20Prerequisite%20Project%20Instruction.md)  at any time.
 
 ## Basic requirements
 
@@ -30,4 +30,4 @@ Run  `run-workflow step-00`  in your terminal to validate your work before you m
 -   `run-workflow step-00`  passes with "BUILD SUCCESSFUL"
 -   You have earned a point after submitting your work
 
-You may go back to the  [Main Prereqs Project Instructions](https://labs.vocareum.com/web/2180183/1165913.0/ASNLIB/public/docs/lang/en/README.md)  at any time.
+You may go back to the  [Main Prereqs Project Instructions](https://github.com/Caldwell-WGU/ATA-Prerequisite-Course/blob/main/Project:%20T-Shirt%20Store/Instructions/Main%20Prerequisite%20Project%20Instruction.md)  at any time.
