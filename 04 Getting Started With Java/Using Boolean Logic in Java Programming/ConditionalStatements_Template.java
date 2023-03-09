@@ -10,9 +10,6 @@ public class ConditionalStatements {
     public String simpleConditional(int price) {
         String answer = null;
         // TODO: Write Step 1 code between the forward slashes
-        if (price < 20){
-            answer = "Buying new shirt";
-        }
 
         //
         return answer;
@@ -26,11 +23,6 @@ public class ConditionalStatements {
     public String singleBranchConditional(String weather) {
         String answer = null;
         // TODO: Write Step 2 code between the forward slashes
-        if ( weather.equals("sunny")){
-            answer = "Going for a jog";
-        } else {
-            answer = "Not going for a jog";
-        }
 
         //
         return answer;
@@ -44,19 +36,6 @@ public class ConditionalStatements {
     public String multipleBranchConditional(String day) {
         String answer = null;
         // TODO: Write Step 3 code between the forward slashes
-        if (day.equals("Friday")){
-
-            answer = "Mexican";
-        } else if (day.equals("Saturday")){
-
-            answer = "Chinese";
-        } else if (day.equals("Sunday")){
-
-            answer = "American";
-        } else {
-
-            answer = "Eating In";
-        }
 
         //
         return answer;
